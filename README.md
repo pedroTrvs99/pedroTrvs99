@@ -6,13 +6,13 @@ This portfolio showcases my practical projects and labs, demonstrating my abilit
 
 ---
 
-## **Featured Projects & Key Skills**
+## **Projects & Key Skills**
 
 Below are some of the projects that highlight my capabilities. Each project directory contains a detailed `README.md` explaining the objectives, tools used, my actions, key findings, and lessons learned.
 
 ### **Google Cybersecurity Certificate Labs**
-* **[Project Title 1 from Google Cert]** (e.g., Simulated Incident Response: Phishing Attack Investigation)
-    * Skills Demonstrated: Incident Response Lifecycle, Email Analysis, Log Analysis (Splunk), Threat Intelligence.
+* **Use Linux commands to manage file permissions** 
+    * Skills Demonstrated: In this activity, I managed file permissions in a Linux environment to enhance security. Tasks included checking current permissions, interpreting permission strings, modifying file and directory permissions, and handling hidden files and folders. This demonstrates the use of chmod and ls -la commands in managing file authorisations.
     * [Link to Project 1 Folder/README](e.g., `./google-cybersecurity-projects/phishing-incident-response/README.md`)
 * **[Project Title 2 from Google Cert]** (e.g., Network Traffic Analysis: Identifying Malicious Patterns)
     * Skills Demonstrated: Packet Analysis (Wireshark), Network Forensics, Protocol Analysis.
