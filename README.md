@@ -14,7 +14,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 -[Use Linux commands to manage file permissions](https://github.com/pedroTrvs99/Use_Linux_commands_to_manage_file_permissions/tree/main)
 
--[Apply filters to SQL queries](https://github.com/pedroTrvs99/Use_Linux_commands_to_manage_file_permissions/tree/main)
+-[Apply filters to SQL queries](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
 * **[Project Title 2 from Google Cert]** (e.g., Network Traffic Analysis: Identifying Malicious Patterns)
     * Skills Demonstrated: Packet Analysis (Wireshark), Network Forensics, Protocol Analysis.
