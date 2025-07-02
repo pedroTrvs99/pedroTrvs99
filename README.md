@@ -8,11 +8,13 @@ This portfolio showcases my practical projects and labs, demonstrating my abilit
 
 ## **Projects & Key Skills**
 
-Below are some of the projects that highlight my capabilities. Each project directory contains a detailed `README.md` explaining the objectives, tools used, my actions, key findings, and lessons learned.
+Below are some of the projects that highlight my capabilities. Each project directory contains a detailed `README.md` file that explains the objectives, tools used, my actions, key findings, and lessons learned.
 
 ### **Google Cybersecurity Certificate Labs**
 
 -[Use Linux commands to manage file permissions](https://github.com/pedroTrvs99/Use_Linux_commands_to_manage_file_permissions/tree/main)
+
+-[Apply filters to SQL queries](https://github.com/pedroTrvs99/Use_Linux_commands_to_manage_file_permissions/tree/main)
 
 * **[Project Title 2 from Google Cert]** (e.g., Network Traffic Analysis: Identifying Malicious Patterns)
     * Skills Demonstrated: Packet Analysis (Wireshark), Network Forensics, Protocol Analysis.
@@ -21,7 +23,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 ### **Personal Home Labs & Independent Projects**
 * **[Personal Project Title 1]** (e.g., Setting up a Vulnerable Web Application Lab)
-    * Skills Demonstrated: Virtualization (VirtualBox), Linux CLI, Web Server Configuration, Basic Vulnerability Assessment.
+    * Skills Demonstrated: Virtualisation (VirtualBox), Linux CLI, Web Server Configuration, Basic Vulnerability Assessment.
     * [Link to Project 3 Folder/README](e.g., `./personal-projects/vulnerable-web-app-lab/README.md`)
 * *(Add more personal projects as you build them)*
 
@@ -44,7 +46,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 * **Security Management:** Understanding of fundamental security frameworks ( NIST Cybersecurity Framework, ISO 27001 principles), security policies, procedures, and governance for building robust security programs.
 * **Cybersecurity Strategy:** Basic understanding of how to align security initiatives with broader business objectives and contribute to long-term cybersecurity planning.
 * **Incident Response:** In-depth knowledge of the incident response lifecycle (preparation, identification, containment, eradication, recovery, and post-incident analysis).
-* **Threat Intelligence:** Ability to identify, analyze, and apply threat intelligence to enhance security posture and detect emerging threats effectively.
+* **Threat Intelligence:** Ability to identify, analyse, and apply threat intelligence to enhance security posture and detect emerging threats effectively.
 * **Ethical Standards and Conduct:** Strong commitment to professional ethics, legal compliance, responsible disclosure, and maintaining confidentiality in all cybersecurity practices.
 * **Open Web Application Security Project (OWASP):** Familiarity with OWASP's key resources, including the OWASP Top 10, for understanding common web application vulnerabilities and promoting secure development practices.
 * **Cloud Security Concepts:** Foundational understanding of cloud security principles, including Identity and Access Management (IAM), network security, and data protection within cloud environments (especially with Google Cloud as a context).
