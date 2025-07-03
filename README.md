@@ -16,10 +16,16 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 -[Apply filters to SQL queries](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
-* **[Project Title 2 from Google Cert]** (e.g., Network Traffic Analysis: Identifying Malicious Patterns)
-    * Skills Demonstrated: Packet Analysis (Wireshark), Network Forensics, Protocol Analysis.
-    * [Link to Project 2 Folder/README](e.g., `./google-cybersecurity-projects/network-traffic-analysis/README.md`)
-* *(Add more Google Certificate projects as you document them)*
+-[Basic Network Monitoring](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
+-[Log Analysis Automation](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
+-[Vulnerability Scanning/Penetration Testing](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
+-[Malware Analysis (Safe Environment)](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
+-[OS Hardening](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
 
 ### **Personal Home Labs & Independent Projects**
 * **[Personal Project Title 1]** (e.g., Setting up a Vulnerable Web Application Lab)
@@ -70,7 +76,7 @@ My background in banking honed critical skills directly applicable to cybersecur
 * **Risk Awareness:** Understanding and mitigating financial and operational risks, translating directly to cyber risk.
 * **Data Handling & Privacy:** Strict adherence to protocols for sensitive customer data protection.
 * **Attention to Detail:** Meticulous approach to reviewing information and identifying discrepancies.
-* **Problem-Solving & Critical Thinking:** Ability to analyze complex situations and devise effective solutions.
+* **Problem-Solving & Critical Thinking:** Ability to analyse complex situations and devise effective solutions.
 * **Communication:** Clearly articulating technical concepts or issues to non-technical stakeholders.
 
 ---
@@ -78,5 +84,5 @@ My background in banking honed critical skills directly applicable to cybersecur
 ## **Connect with Me!**
 
 * **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [Your Professional Email Address]
-* *(Optional: Link to a personal security blog if you have one)*
+* **Email:** [pedro1999pt@gmail.com]
+
