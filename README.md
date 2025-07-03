@@ -16,7 +16,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 -[Apply filters to SQL queries](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
--[Basic Network Monitoring](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+-[Basic Network Monitoring](https://github.com/pedroTrvs99/Basic-Network-Monitoring-Deploying-an-Intrusion-Detection-System-IDS-/blob/main/README.md)
 
 -[Log Analysis Automation](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
