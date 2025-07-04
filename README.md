@@ -33,12 +33,6 @@ Below are some of the projects that highlight my capabilities. Each project dire
     * [Link to Project 3 Folder/README](e.g., `./personal-projects/vulnerable-web-app-lab/README.md`)
 * *(Add more personal projects as you build them)*
 
-### **CTF Write-ups & Challenge Solutions**
-* **[CTF Name/Challenge Title]** (e.g., TryHackMe: Basic Pentesting Room Walkthrough)
-    * Skills Demonstrated: OSINT, Enumeration, Privilege Escalation, Exploitation.
-    * [Link to CTF Write-up Folder/README](e.g., `./ctf-writeups/tryhackme-basic-pentesting/README.md`)
-* *(Add more CTF write-ups if you do them)*
-
 ---
 
 ## **My Cybersecurity Toolkit**
