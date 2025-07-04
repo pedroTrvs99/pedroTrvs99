@@ -18,7 +18,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 -[Basic Network Monitoring](https://github.com/pedroTrvs99/Basic-Network-Monitoring-Deploying-an-Intrusion-Detection-System-IDS-/blob/main/README.md)
 
--[Log Analysis Automation with Python: Spotting Suspicious Activity](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+-[Log Analysis Automation with Python: Spotting Suspicious Activity](https://github.com/pedroTrvs99/Log-Analysis-Automation-with-Python-Spotting-Suspicious-Activity/edit/main/README.md)
 
 -[Vulnerability Scanning/Penetration Testing](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
