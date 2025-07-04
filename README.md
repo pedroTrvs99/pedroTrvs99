@@ -84,5 +84,5 @@ My background in banking honed critical skills directly applicable to cybersecur
 ## **Connect with Me!**
 
 * **LinkedIn:** [Link to your LinkedIn Profile]
-* **Email:** [pedro1999pt@gmail.com]
+* **Email:** [pedro_1999_pt@hotmail.com]
 
