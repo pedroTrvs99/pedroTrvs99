@@ -20,7 +20,7 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 -[Log Analysis Automation with Python: Spotting Suspicious Activity](https://github.com/pedroTrvs99/Log-Analysis-Automation-with-Python-Spotting-Suspicious-Activity/edit/main/README.md)
 
--[Malware Analysis (Safe Environment)](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+-[Malware Analysis (Safe Environment)](https://github.com/pedroTrvs99/Basic-Malware-Analysis-Unpacking-a-Suspicious-File-in-a-Safe-Lab)
 
 -[OS Hardening](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
 
