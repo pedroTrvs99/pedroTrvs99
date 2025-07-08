@@ -26,10 +26,15 @@ Below are some of the projects that highlight my capabilities. Each project dire
 
 
 ### **Personal Home Labs & Independent Projects**
-* **[Personal Project Title 1]** (e.g., Setting up a Vulnerable Web Application Lab)
-    * Skills Demonstrated: Virtualisation (VirtualBox), Linux CLI, Web Server Configuration, Basic Vulnerability Assessment.
-    * [Link to Project 3 Folder/README](e.g., `./personal-projects/vulnerable-web-app-lab/README.md`)
-* *(Add more personal projects as you build them)*
+-[Setup SIEM](https://github.com/pedroTrvs99/Use_Linux_commands_to_manage_file_permissions/tree/main)
+
+-[Setup Active Directory Environment](https://github.com/pedroTrvs99/Apply-filters-to-SQL-queries/blob/main/README.md)
+
+-[Creating a File Inegrity Monitor(FIM)](https://github.com/pedroTrvs99/Basic-Network-Monitoring-Deploying-an-Intrusion-Detection-System-IDS-/blob/main/README.md)
+
+-[Creating a Vulnerability Management Lab](https://github.com/pedroTrvs99/Log-Analysis-Automation-with-Python-Spotting-Suspicious-Activity/edit/main/README.md)
+
+-[Creating a REST API (Exposure)](https://github.com/pedroTrvs99/Basic-Malware-Analysis-Unpacking-a-Suspicious-File-in-a-Safe-Lab)
 
 ---
 
